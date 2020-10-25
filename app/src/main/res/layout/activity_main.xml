@@ -24,6 +24,7 @@
         android:layout_width="0dp"
         android:layout_height="56dp"
         android:background="#ffffff"
+        app:labelVisibilityMode="unlabeled"
         app:layout_constraintBottom_toBottomOf="parent"
 
         app:layout_constraintEnd_toEndOf="parent"
